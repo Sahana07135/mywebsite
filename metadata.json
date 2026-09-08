@@ -1,0 +1,6 @@
+{
+  "name": "Sahana.N Portfolio",
+  "description": "Portfolio and academic profile of Sahana.N, Artificial Intelligence & Data Science student at REVA University.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
